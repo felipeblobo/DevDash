@@ -8,8 +8,8 @@ const Footer = () => {
       <div className="container">
         <div className='footerItem footerMargin text-light'>
           <small>Desenvolvido por:</small>
-        <a target='_blank' rel="noreferrer" href='https://github.com/felipeblobo'><FontAwesomeIcon className = 'icone mx-2' icon={faGithub} size="2x" style={{color: '#ffff'}} /></a>
-        <a target='_blank' rel="noreferrer" href='https://www.linkedin.com/in/felipelobo23'><FontAwesomeIcon className = 'icone' icon={faLinkedin} size="2x" style={{color: '#ffff'}} /></a>
+        <a target='_blank' rel="noreferrer" href='https://github.com/felipeblobo'><FontAwesomeIcon className = 'icone mx-2' icon={faGithub}  style={{color: '#66abad'}} /></a>
+        <a target='_blank' rel="noreferrer" href='https://www.linkedin.com/in/felipelobo23'><FontAwesomeIcon className = 'icone' icon={faLinkedin} style={{color: '#66abad'}} /></a>
         </div>
         
         <p className="text-light">
