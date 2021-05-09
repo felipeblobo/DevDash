@@ -2,6 +2,7 @@
 
 :root {
     --color-primary: #FF914D;
+    --color-primary-hover: #fd6e16;
     --color-light: #f0f0f0;
     --color-dark: #505050;
 }
@@ -31,6 +32,11 @@ html, body {
     background-color: var(--color-primary) !important;
 }
 
+#dashButton:hover {
+    background-color: var(--color-primary-hover) !important;
+    color: white;
+}
+
 .text-primary {
     color: var(--color-primary) !important;
 }
@@ -46,3 +52,4 @@ html, body {
 .icone:hover {
     color: var(--color-primary) !important;
 }
+
