@@ -7,9 +7,11 @@ Acesse aqui: https://devtalk.vercel.app/
 
 <br>
 
-![aplicação](https://i.imgur.com/2qgRdY1.gif) 
+<div align="center"  justify-content="center" margin-top="60px" >
+ <h3>Desktop version</h3>
+ <img src="https://i.imgur.com/c4PL1tp.png" alt="Exemplo da aplicação" >
+</div>
 
-<br>
 
 
 ## ⛏ Techs
